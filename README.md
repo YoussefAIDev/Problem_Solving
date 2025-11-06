@@ -1,2 +1,3 @@
+# 🧩 Problem Solving  
 
-# 🧩 Problem Solving  A collection of Python solutions for coding challenges.   Organized by difficulty: Easy, Medium, and Hard.   Focus: improving logic, algorithms, and coding efficiency.
+A space where I sharpen my coding skills by solving different challenges and having fun with logic and algorithms.
